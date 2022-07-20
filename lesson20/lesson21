@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<signal.h>
+int flag=0;
+void handler(int signo)
+{
+  flag=1;
+  printf("flag 0->1\n");
+}
+int main()
+{
+  signal(2,handler);
+  while(!flag)
+  {
+    printf("此进程正常退出\n");
+
+  }
+  return 0;
+
+}
