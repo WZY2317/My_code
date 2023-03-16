@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d279e03-233a-4d60-bdcb-522a118d702f": {
+      "ProjectGuid": "8d279e03-233a-4d60-bdcb-522a118d702f",
+      "DisplayName": "二级制下一的个数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

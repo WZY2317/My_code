@@ -1,0 +1,113 @@
+﻿  priority_queue.cpp
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(27,40): error C2059: 语法错误:“)”
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(39,3): error C2143: 语法错误: 缺少“;”(在“void”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(13,5): error C3861: “_con”: 找不到标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(12,3): message : 此诊断出现在编译器生成的函数“bit::priority_queue<T,Container,compare>::priority_queue(InputIterator,InputIterator)”中
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(39): message : 查看对正在编译的 类 模板 实例化“bit::priority_queue<T,Container,compare>”的引用
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(15,18): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(12,3): message : 此诊断出现在编译器生成的函数“bit::priority_queue<T,Container,compare>::priority_queue(InputIterator,InputIterator)”中
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(15,18): error C3861: “_con”: 找不到标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(12,3): message : 此诊断出现在编译器生成的函数“bit::priority_queue<T,Container,compare>::priority_queue(InputIterator,InputIterator)”中
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(17,5): error C3861: “Adjust_down”: 找不到标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(17,16): message : “Adjust_down”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(12,3): message : 此诊断出现在编译器生成的函数“bit::priority_queue<T,Container,compare>::priority_queue(InputIterator,InputIterator)”中
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(27,40): error C2760: 语法错误:此处出现意外的“}”；应为“statement”
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(33,5): error C3878: 语法错误: 意外令牌“else”出现在“statement_seq”后面
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(33,5): message : 缺少以下项之一:  '}' ?
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(33,5): message : 已跳过错误恢复:“else { break  . . . ;”
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(43,19): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(45,9): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(45,27): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(45,54): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(51,9): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(51,23): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,11): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,24): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,6): error C2672: “std::swap”: 未找到匹配的重载函数
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::function<_Fty> &,std::function<_Fty> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\functional(1173): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::tuple<_Types...> &,std::tuple<_Types...> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\tuple(781): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::array<_Ty,_Size> &,std::array<_Ty,_Size> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\array(790): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::priority_queue<_Ty,_Container,_Pr> &,std::priority_queue<_Ty,_Container,_Pr> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\queue(316): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::queue<_Ty,_Container> &,std::queue<_Ty,_Container> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\queue(168): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::vector<_Ty,_Alloc> &,std::vector<_Ty,_Alloc> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector(1933): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::stack<_Ty,_Container> &,std::stack<_Ty,_Container> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\stack(158): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::deque<_Ty,_Alloc> &,std::deque<_Ty,_Alloc> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\deque(1593): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::unique_ptr<_Ty,_Dx> &,std::unique_ptr<_Ty,_Dx> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(3409): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::weak_ptr<_Ty> &,std::weak_ptr<_Ty> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(3032): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::shared_ptr<_Ty> &,std::shared_ptr<_Ty> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(1901): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4694): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(std::pair<_Ty1,_Ty2> &,std::pair<_Ty1,_Ty2> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(339): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(_Ty (&)[_Size],_Ty (&)[_Size]) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\type_traits(1896): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(53,36): error C2780: “void std::swap(_Ty &,_Ty &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\type_traits(1893): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(63,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(63,20): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(65,4): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(65,19): error C2065: “x”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(66,14): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(66,4): error C3861: “Adjust_up”: 找不到标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(70,11): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(74,4): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,9): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,18): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,23): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,4): error C2672: “std::swap”: 未找到匹配的重载函数
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::function<_Fty> &,std::function<_Fty> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\functional(1173): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::tuple<_Types...> &,std::tuple<_Types...> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\tuple(781): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::array<_Ty,_Size> &,std::array<_Ty,_Size> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\array(790): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::priority_queue<_Ty,_Container,_Pr> &,std::priority_queue<_Ty,_Container,_Pr> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\queue(316): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::queue<_Ty,_Container> &,std::queue<_Ty,_Container> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\queue(168): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::vector<_Ty,_Alloc> &,std::vector<_Ty,_Alloc> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector(1933): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::stack<_Ty,_Container> &,std::stack<_Ty,_Container> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\stack(158): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::deque<_Ty,_Alloc> &,std::deque<_Ty,_Alloc> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\deque(1593): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::unique_ptr<_Ty,_Dx> &,std::unique_ptr<_Ty,_Dx> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(3409): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::weak_ptr<_Ty> &,std::weak_ptr<_Ty> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(3032): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::shared_ptr<_Ty> &,std::shared_ptr<_Ty> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(1901): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &) noexcept”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4694): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(std::pair<_Ty1,_Ty2> &,std::pair<_Ty1,_Ty2> &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(339): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(_Ty (&)[_Size],_Ty (&)[_Size]) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\type_traits(1896): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(75,39): error C2780: “void std::swap(_Ty &,_Ty &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\type_traits(1893): message : 参见“std::swap”的声明
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(76,4): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(84,11): error C2065: “_con”: 未声明的标识符
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(86,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(86,10): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(87,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(87,3): error C2059: 语法错误:“{”
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(87,3): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(87,3): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(91,2): error C2059: 语法错误:“private”
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(92,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(92,13): error C2146: 语法错误: 缺少“;”(在标识符“_con”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(112,1): error C2059: 语法错误:“}”
+E:\Code\CPP\优先级队列\优先级队列\priorityqueue.h(112,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priority_queue.cpp(14,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Code\CPP\优先级队列\优先级队列\priority_queue.cpp(14,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)

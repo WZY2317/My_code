@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "787909e7-05ec-4bfb-9b74-5dac76cd0cbe": {
+      "ProjectGuid": "787909e7-05ec-4bfb-9b74-5dac76cd0cbe",
+      "DisplayName": "扑克牌大小",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

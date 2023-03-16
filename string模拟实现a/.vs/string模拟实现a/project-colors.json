@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2bc9eed-fe1d-449e-9b9f-fb0e93bae276": {
+      "ProjectGuid": "e2bc9eed-fe1d-449e-9b9f-fb0e93bae276",
+      "DisplayName": "string模拟实现a",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8390e1d3-4877-4668-9ef1-300d2829aebb": {
+      "ProjectGuid": "8390e1d3-4877-4668-9ef1-300d2829aebb",
+      "DisplayName": "各种智能指针的模拟实现",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

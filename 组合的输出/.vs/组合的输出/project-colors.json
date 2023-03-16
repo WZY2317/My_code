@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff3bd0ee-4505-40f8-9d63-595a66d87bd7": {
+      "ProjectGuid": "ff3bd0ee-4505-40f8-9d63-595a66d87bd7",
+      "DisplayName": "组合的输出",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

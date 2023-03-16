@@ -1,0 +1,9 @@
+﻿  Vector.cpp
+E:\Code\CPP\vector作业\vector作业\VEctor.h(25,1): error C2535: “bit::vector<T>::vector(const bit::vector<T> &)”: 已经定义或声明成员函数
+E:\Code\CPP\vector作业\vector作业\VEctor.h(17): message : 参见“bit::vector<T>::vector”的声明
+E:\Code\CPP\vector作业\vector作业\VEctor.h(194): message : 查看对正在编译的 类 模板 实例化“bit::vector<T>”的引用
+E:\Code\CPP\vector作业\vector作业\VEctor.h(43,4): error C2760: 语法错误:此处出现意外的“:”；应为“{”
+E:\Code\CPP\vector作业\vector作业\VEctor.h(41,3): message : 此诊断出现在编译器生成的函数“bit::vector<T>::vector(InputIterator,InputIterator)”中
+E:\Code\CPP\vector作业\vector作业\VEctor.h(25,1): error C2535: “bit::vector<int>::vector(const bit::vector<int> &)”: 已经定义或声明成员函数
+E:\Code\CPP\vector作业\vector作业\VEctor.h(17): message : 参见“bit::vector<int>::vector”的声明
+E:\Code\CPP\vector作业\vector作业\VEctor.h(197): message : 查看对正在编译的 类 模板 实例化“bit::vector<int>”的引用

@@ -1,0 +1,3 @@
+﻿  tests.cpp
+E:\Code\CPP\二级制下一的个数\二级制下一的个数\tests.cpp(15,17): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  二级制下一的个数.vcxproj -> E:\Code\CPP\二级制下一的个数\x64\Debug\二级制下一的个数.exe

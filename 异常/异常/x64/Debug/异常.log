@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\Code\CPP\异常\异常\test.cpp(100,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Code\CPP\异常\异常\test.cpp(108,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Code\CPP\异常\异常\test.cpp(122,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  异常.vcxproj -> E:\Code\CPP\异常\x64\Debug\异常.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b49914f-0cc4-4753-aec9-a2f859154879": {
+      "ProjectGuid": "9b49914f-0cc4-4753-aec9-a2f859154879",
+      "DisplayName": "汽水瓶",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

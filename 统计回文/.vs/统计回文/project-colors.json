@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "165b20c6-aea0-47ec-b12c-e7beebaa93c5": {
+      "ProjectGuid": "165b20c6-aea0-47ec-b12c-e7beebaa93c5",
+      "DisplayName": "统计回文",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

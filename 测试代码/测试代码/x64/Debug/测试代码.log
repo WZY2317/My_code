@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Code\CPP\测试代码\测试代码\test.cpp(59,9): error C2011: “B”:“class”类型重定义
+E:\Code\CPP\测试代码\测试代码\test.cpp(40): message : 参见“B”的声明
+E:\Code\CPP\测试代码\测试代码\test.cpp(90,7): error C2079: “b”使用未定义的 class“B”

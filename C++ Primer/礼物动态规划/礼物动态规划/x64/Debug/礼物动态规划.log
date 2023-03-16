@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Code\CPP\C++ Primer\礼物动态规划\礼物动态规划\test.cpp(5,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\CPP\C++ Primer\礼物动态规划\礼物动态规划\test.cpp(6,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  礼物动态规划.vcxproj -> E:\Code\CPP\C++ Primer\礼物动态规划\x64\Debug\礼物动态规划.exe

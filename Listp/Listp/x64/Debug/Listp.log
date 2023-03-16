@@ -1,0 +1,6 @@
+﻿  test.cpp
+E:\Code\CPP\Listp\Listp\list.h(99,14): error C2677: 二进制“!=”: 没有找到接受“bit::_list_iterator<T>”类型的全局运算符(或没有可接受的转换)
+          with
+          [
+              T=int
+          ]

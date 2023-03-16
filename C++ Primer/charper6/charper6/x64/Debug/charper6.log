@@ -1,0 +1,3 @@
+﻿  charper6.cpp
+E:\Code\CPP\C++ Primer\charper6\charper6\charper6.cpp(11,28): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  charper6.vcxproj -> E:\Code\CPP\C++ Primer\charper6\x64\Debug\charper6.exe

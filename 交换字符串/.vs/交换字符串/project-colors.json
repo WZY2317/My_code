@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27b2ef13-fc52-4fb0-9b68-80ca6cab98f0": {
+      "ProjectGuid": "27b2ef13-fc52-4fb0-9b68-80ca6cab98f0",
+      "DisplayName": "交换字符串",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

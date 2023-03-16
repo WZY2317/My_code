@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f01f072-1a4f-4263-8fb5-b84ab853fa54": {
+      "ProjectGuid": "1f01f072-1a4f-4263-8fb5-b84ab853fa54",
+      "DisplayName": "StackQueue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

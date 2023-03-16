@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8db0a51-ceac-4b53-8596-e5df42ad93eb": {
+      "ProjectGuid": "b8db0a51-ceac-4b53-8596-e5df42ad93eb",
+      "DisplayName": "搜索二叉树",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

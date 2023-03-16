@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbc35c97-0978-489d-a94c-a66feed63984": {
+      "ProjectGuid": "bbc35c97-0978-489d-a94c-a66feed63984",
+      "DisplayName": "测试代码",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc3b8a26-a28b-4bfd-ab0c-093e258c22b8": {
+      "ProjectGuid": "fc3b8a26-a28b-4bfd-ab0c-093e258c22b8",
+      "DisplayName": "修建灌木",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

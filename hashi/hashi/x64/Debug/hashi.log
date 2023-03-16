@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Code\CPP\hashi\hashi\HashTable.h(24,1): error C2955: “HashData”: 使用 类 模板 需要 模板 参数列表
+E:\Code\CPP\hashi\hashi\HashTable.h(15): message : 参见“HashData”的声明
+E:\Code\CPP\hashi\hashi\HashTable.h(96): message : 查看对正在编译的 类 模板 实例化“HashTable<K,V>”的引用

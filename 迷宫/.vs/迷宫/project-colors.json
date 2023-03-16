@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f0d8560-5e78-487e-8143-dfef1c844c6d": {
+      "ProjectGuid": "2f0d8560-5e78-487e-8143-dfef1c844c6d",
+      "DisplayName": "迷宫",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

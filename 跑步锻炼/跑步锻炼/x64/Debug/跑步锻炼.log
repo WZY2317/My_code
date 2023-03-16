@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\Code\CPP\跑步锻炼\跑步锻炼\test.cpp(43): warning C4715: “isyearbegin”: 不是所有的控件路径都返回值
+  跑步锻炼.vcxproj -> E:\Code\CPP\跑步锻炼\x64\Debug\跑步锻炼.exe

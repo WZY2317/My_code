@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a26e6228-6bec-481b-97e4-352dd4feec8b": {
+      "ProjectGuid": "a26e6228-6bec-481b-97e4-352dd4feec8b",
+      "DisplayName": "C++11",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4f9a195-495d-4c35-a684-f92d0569a1bc": {
+      "ProjectGuid": "f4f9a195-495d-4c35-a684-f92d0569a1bc",
+      "DisplayName": "最长回文子串",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

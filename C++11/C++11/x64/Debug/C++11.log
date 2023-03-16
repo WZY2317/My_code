@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Code\CPP\C++11\C++11\test.cpp(11,1): error C2760: 语法错误:此处出现意外的“}”；应为“{”
+E:\Code\CPP\C++11\C++11\test.cpp(11): message : 查看对正在编译的 类 模板 实例化“Vector<T>”的引用
+E:\Code\CPP\C++11\C++11\test.cpp(11,1): fatal error C1903: 无法从以前的错误中恢复；正在停止编译

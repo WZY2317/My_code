@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b709f2d-d255-463c-b3d9-1f6498da996f": {
+      "ProjectGuid": "1b709f2d-d255-463c-b3d9-1f6498da996f",
+      "DisplayName": "统计子矩阵",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e7f22e3-9195-4047-9fe2-e458e74f2cb8": {
+      "ProjectGuid": "5e7f22e3-9195-4047-9fe2-e458e74f2cb8",
+      "DisplayName": "迷宫问题",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

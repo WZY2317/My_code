@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Code\CPP\单词识别\单词识别\test.cpp(21,9): warning C4101: “j”: 未引用的局部变量
+E:\Code\CPP\单词识别\单词识别\test.cpp(21,6): warning C4101: “i”: 未引用的局部变量
+  单词识别.vcxproj -> E:\Code\CPP\单词识别\x64\Debug\单词识别.exe

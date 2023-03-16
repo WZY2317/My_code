@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00677004-070e-4627-90b5-d93e958bf22e": {
+      "ProjectGuid": "00677004-070e-4627-90b5-d93e958bf22e",
+      "DisplayName": "哈希",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

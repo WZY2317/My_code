@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1afb5771-92ec-43ef-a0b5-0b2399e27837": {
+      "ProjectGuid": "1afb5771-92ec-43ef-a0b5-0b2399e27837",
+      "DisplayName": "洗牌",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

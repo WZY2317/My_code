@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e28203eb-c2d6-40c4-800c-5797614fbd54": {
+      "ProjectGuid": "e28203eb-c2d6-40c4-800c-5797614fbd54",
+      "DisplayName": "播放歌曲",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

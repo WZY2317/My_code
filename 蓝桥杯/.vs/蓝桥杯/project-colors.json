@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7745832-ff26-4da4-8090-900dac7585c8": {
+      "ProjectGuid": "a7745832-ff26-4da4-8090-900dac7585c8",
+      "DisplayName": "蓝桥杯",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16e0025d-7ccf-4e45-b4cd-d2f6ab2b5ae5": {
+      "ProjectGuid": "16e0025d-7ccf-4e45-b4cd-d2f6ab2b5ae5",
+      "DisplayName": "三连击",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

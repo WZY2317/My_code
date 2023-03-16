@@ -1,0 +1,8 @@
+﻿  test.cpp
+E:\Code\CPP\统计回文\统计回文\test.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\CPP\统计回文\统计回文\test.cpp(12,37): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\Code\CPP\统计回文\统计回文\test.cpp(20,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\CPP\统计回文\统计回文\test.cpp(23,39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\Code\CPP\统计回文\统计回文\test.cpp(31,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\CPP\统计回文\统计回文\test.cpp(34,39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  统计回文.vcxproj -> E:\Code\CPP\统计回文\x64\Debug\统计回文.exe

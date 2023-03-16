@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "becdb871-72e4-4df1-95ec-2345de22691c": {
+      "ProjectGuid": "becdb871-72e4-4df1-95ec-2345de22691c",
+      "DisplayName": "单词识别",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,80 @@
+﻿  BSTree.cpp
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(12,9): error C3861: “null”: 找不到标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(16): message : 查看对正在编译的 类 模板 实例化“BSTreeNode<K,V>”的引用
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(29,32): error C2760: 语法错误:此处出现意外的“;”；应为“表达式”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(154): message : 查看对正在编译的 类 模板 实例化“BSTree<K,V>”的引用
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(50,29): error C2760: 语法错误:此处出现意外的“;”；应为“表达式”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(57,13): error C2760: 语法错误:此处出现意外的“>”；应为“表达式”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(57,13): error C3878: 语法错误: 意外令牌“>”出现在“expression”后面
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(57,13): message : 已跳过错误恢复:“> 标识符 =  . . . 标识符”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(135,12): error C3861: “trye”: 找不到标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(144,3): error C3861: “cout”: 找不到标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(150,3): error C2065: “cout”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(150,3): error C3861: “cout”: 找不到标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(150,11): error C3861: “endl”: 找不到标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160,9): error C2065: “string”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160,17): error C2065: “string”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160,2): error C2923: “BSTree”: 对于参数“K”，“string”不是有效的 模板 类型变量
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160): message : 参见“string”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160,2): error C2923: “BSTree”: 对于参数“V”，“string”不是有效的 模板 类型变量
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160): message : 参见“string”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160,29): error C2133: “dict”: 未知的大小
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(160,25): error C2512: “BSTree”: 没有合适的默认构造函数可用
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(19,1): message : 参见“BSTree”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(161,32): error C2662: “bool BSTree<K,V>::Insert(const K &,const V &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(161,32): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(161,2): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(25,7): message : 参见“BSTree<K,V>::Insert”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(162,31): error C2662: “bool BSTree<K,V>::Insert(const K &,const V &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(162,31): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(162,2): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(25,7): message : 参见“BSTree<K,V>::Insert”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(163,30): error C2662: “bool BSTree<K,V>::Insert(const K &,const V &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(163,30): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(163,2): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(25,7): message : 参见“BSTree<K,V>::Insert”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(164,35): error C2662: “bool BSTree<K,V>::Insert(const K &,const V &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(164,35): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(164,2): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(25,7): message : 参见“BSTree<K,V>::Insert”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(166,2): error C2065: “string”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(166,9): error C2146: 语法错误: 缺少“;”(在标识符“str”的前面)
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(166,9): error C2065: “str”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(167,9): error C2065: “cin”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(167,16): error C2065: “str”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(169,24): error C2065: “str”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(170,10): error C3536: “ret”: 初始化之前无法使用
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(172,4): error C2065: “cout”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(172,12): error C2065: “str”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(172,41): error C2065: “endl”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(176,4): error C2065: “cout”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(176,36): error C2065: “endl”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(180,2): error C2065: “string”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(180,9): error C2146: 语法错误: 缺少“;”(在标识符“strs”的前面)
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(180,9): error C2065: “strs”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(180,14): error C2059: 语法错误:“]”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(180,18): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(180,109): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(182,9): error C2065: “string”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(182,2): error C2923: “BSTree”: 对于参数“K”，“string”不是有效的 模板 类型变量
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(182): message : 参见“string”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(182,31): error C2133: “countTree”: 未知的大小
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(182,22): error C2512: “BSTree”: 没有合适的默认构造函数可用
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(19,1): message : 参见“BSTree”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(183,18): error C2065: “strs”: 未声明的标识符
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(183,2): error C3531: “str”: 类型包含“auto”的符号必须具有初始值设定项
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(183,16): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(183,22): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(185,32): error C2662: “BSTreeNode<K,V> *BSTree<K,V>::Find(const K &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(185,32): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(185,14): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(61,8): message : 参见“BSTree<K,V>::Find”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(186,6): error C3536: “ret”: 初始化之前无法使用
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(188,27): error C2662: “bool BSTree<K,V>::Insert(const K &,const V &)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(188,27): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(188,4): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(25,7): message : 参见“BSTree<K,V>::Insert”的声明
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(195,20): error C2662: “void BSTree<K,V>::InOrder(void)”: 不能将“this”指针从“BSTree”转换为“BSTree<K,V> &”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(195,20): message : 原因如下: 无法从“BSTree”转换为“BSTree<K,V>”
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(195,2): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Code\CPP\二叉搜索树的实现\二叉搜索树的实现\BSTree.h(147,7): message : 参见“BSTree<K,V>::InOrder”的声明

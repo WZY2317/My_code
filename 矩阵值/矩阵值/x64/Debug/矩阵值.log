@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Code\CPP\矩阵值\矩阵值\test.cpp(6,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\CPP\矩阵值\矩阵值\test.cpp(7,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  矩阵值.vcxproj -> E:\Code\CPP\矩阵值\x64\Debug\矩阵值.exe

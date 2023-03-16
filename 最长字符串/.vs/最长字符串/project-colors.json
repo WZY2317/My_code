@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "682043bc-32b4-4454-bb03-e8db41e57bf3": {
+      "ProjectGuid": "682043bc-32b4-4454-bb03-e8db41e57bf3",
+      "DisplayName": "最长字符串",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c85d8952-a518-4786-8928-5aba2a273e01": {
+      "ProjectGuid": "c85d8952-a518-4786-8928-5aba2a273e01",
+      "DisplayName": "等差素数列",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

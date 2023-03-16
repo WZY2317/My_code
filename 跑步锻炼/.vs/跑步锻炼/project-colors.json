@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd501efd-bcb9-4672-bf7b-7f08eb304bf8": {
+      "ProjectGuid": "dd501efd-bcb9-4672-bf7b-7f08eb304bf8",
+      "DisplayName": "跑步锻炼",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
