@@ -1,4 +1,0 @@
-﻿  test.cpp
-E:\Code\CPP\C++ Primer\顺时针打印矩阵\顺时针打印矩阵\test.cpp(6,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\Code\CPP\C++ Primer\顺时针打印矩阵\顺时针打印矩阵\test.cpp(7,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  顺时针打印矩阵.vcxproj -> E:\Code\CPP\C++ Primer\顺时针打印矩阵\x64\Debug\顺时针打印矩阵.exe
